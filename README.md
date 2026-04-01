@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ajay99511?style=for-the-badge&logo=github&color=4F46E5)](https://github.com/ajay99511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail)](mailto:ajayelika9010@gmail.com)
 
 **Architecting resilient software systems with a severe passion and commitment towards advancing AI.**
 
@@ -146,7 +146,7 @@ I am continuously exploring the intersection of **Deep Learning mathematics, Aut
 
 |  💼 **Professional**  |             🐙 **Open Source**             |               📧 **Direct**               |
 | :-------------------: | :----------------------------------------: | :---------------------------------------: |
-| [LinkedIn Preview](#) | [@ajay99511](https://github.com/ajay99511) | [Email Me](mailto:your-email@example.com) |
+| [LinkedIn Preview](#) | [@ajay99511](https://github.com/ajay99511) | [Email Me](mailto:ajayelika9010@gmail.com) |
 
 **Currently open to:** Technical discussions • Deep Learning/AI Projects • High-Impact Software Engineering Roles
 
