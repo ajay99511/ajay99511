@@ -1,287 +1,160 @@
-# 👋 Ajay - Full-Stack Developer & AI Enthusiast
-
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/ajay99511?style=for-the-badge&logo=github)](https://github.com/ajay99511)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+# 👋 Hi, I'm Ajay
 
-**Building innovative mobile, desktop, and AI-powered applications**
+### 🚀 Software Engineer | MS in CS @ University of Central Missouri
 
-[Repositories](#-featured-repositories) • [Tech Stack](#-tech-stack) • [GitHub Stats](#-github-stats) • [Let's Connect](#-let's-connect)
+[![GitHub followers](https://img.shields.io/github/followers/ajay99511?style=for-the-badge&logo=github&color=4F46E5)](https://github.com/ajay99511)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+**Architecting resilient software systems with a severe passion and commitment towards advancing AI.**
+
+[Featured Engineering](#-featured-engineering-marvels) • [AI Deep Dive & Focus](#-ai-exploration--architectural-focus) • [Open Source](#-open-source-contributions) • [Contact](#-lets-connect)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧠 About Me
 
-Full-stack developer with expertise in **mobile development** (Kotlin, Flutter), **desktop applications** (Tauri), **AI/ML**, and **modern web technologies** (TypeScript, React). I focus on creating **production-grade applications** with exceptional user experience, optimized architecture, and scalable solutions.
+I am a **Software Engineer and recent Master of Science in Computer Science graduate from UCM**, bridging the gap between rigorous systems engineering and cutting-edge artificial intelligence. I specialize in building complex, high-performance architectures—from low-latency mobile/desktop applications to full-scale autonomous agentic backends.
 
-**Key Strengths:**
-- 🚀 **Performance-Driven Development** — Offline-first architecture, gesture controls, PiP mode
-- 🎨 **Modern UI/UX** — Jetpack Compose, Material Design 3, glassmorphic designs
-- 🔧 **Full-Stack Expertise** — Mobile → Desktop → Web + Backend
-- 📊 **Analytics & Intelligence** — Real-time dashboards, energy-aware scheduling, productivity insights
-- 🤖 **AI Integration** — Building with cutting-edge AI technologies
+Beyond applied engineering, I have a profound, relentless passion for the internal mechanics of deep learning. Rather than treating AI as a black-box API, I am committed to exploring **neural network arithmetic, Transformer forward pass mechanics, and modern inference optimizations**. I believe that true innovation stems from fundamentally understanding the mathematics and hardware execution (e.g., Tensor Cores, memory-bandwidth walls) that power intelligent systems.
+
+**My engineering philosophy focuses on:**
+
+- 🤖 **Deep AI Architectures**: Exploring Hybrid models (Mamba/SSMs), Sparse Mixture of Experts (MoE), and Multi-Token Prediction (MTP).
+- 🧠 **Agentic Orchestration**: Designing both deterministic and non-deterministic agent meshes (Plan-and-Execute, Dynamic Supervisors) utilizing the Model Context Protocol (MCP).
+- ⚡ **Resilient Systems Design**: Developing zero-latency, local-first applications with robust offline synchronization.
+- 📐 **Enterprise-Grade Engineering**: Implementing Clean Architecture, MVVM, and secure cryptographic storage (PBKDF2-derived access).
 
 ---
 
-## 🏆 Featured Repositories
+## 🔬 AI Exploration & Architectural Focus
+
+My commitment to AI extends into continuous self-driven exploration of low-level architecture and mathematics. I am constantly studying how 2026-era optimizations alter the computational landscape:
+
+- **Mathematical Inference Modeling**: Deconstructing the Transformer forward pass, attention scoring, and Softmax implementations.
+- **Hardware-Level Optimization**: Studying KV Caching, FlashAttention-4 implementations on Blackwell architectures, and the shift from $O(N^2)$ to Linear-Scaling alternatives.
+- **Hybrid Architectures**: Exploring the fusion of Self-Attention with State Space Models (Mamba/Jamba) for infinite context processing via Ring Attention.
+- **Agent Orchestration**: Exploring scalable orchestration patterns from sequential pipelines to Magentic (Dynamic Supervisor) systems governed by strict JSON Schema validations.
+
+---
+
+## 🏆 Featured Engineering Marvels
+
+### 🤖 **ENGRAM** — Autonomous Agentic AI Assistant
+
+_Your personal, multi-platform AI assistant built with a modular, extensible architecture._
+**Tech Stack:** Python • FastAPI • TypeScript • Tauri • React • Qdrant (Vector DB) • Redis
+
+- **Autonomous Agent Core**: Engineered background job processing with ARQ, real-time SSE streaming, and an event bus architecture.
+- **Advanced Integrations**: Built 29+ REST endpoints, integrating Ollama, Mem0 memory layer, and DuckDuckGo web research.
+- **System Telemetry**: Implemented low-level system monitoring tools tracking CPU, memory, and deep Windows Event Logs.
+
+### ⏱️ **Chronos Planner** — Intelligence-Driven Time Management
+
+_A futuristic desktop-first scheduling application featuring energy-aware intelligence._
+**Tech Stack:** Flutter 3.x • Dart • Drift ORM • SQLite • Clean Architecture
+
+- **Energy-Aware Intelligence**: Designed algorithms mapping task scheduling to cognitive peak hours for productivity optimization.
+- **Architectural Rigor**: Built on standard Top 1% codebase structures—employing Repository patterns, 7-day rolling windows, and extensive documentation frameworks.
+- **Polished UI/UX**: Shipped a fully responsive, cross-platform glassmorphic UI with dynamic floating Focus Modes.
 
 ### 🎵 **FastBeat** — Premium Offline Media Player
-**[Repository](https://github.com/ajay99511/FastBeat)** | **Language:** Kotlin (100%)
+
+_The ultimate offline-first Android media player leveraging the latest native technologies._
+**Tech Stack:** Kotlin (100%) • Jetpack Compose • Media3 (ExoPlayer) • Room DB • Dagger Hilt
+
+- **Advanced Playback Engine**: Implemented seamless multi-track support, Picture-in-Picture (PiP), and sophisticated gesture controls.
+- **Reactive Architecture**: Utilized rigorous MVVM with StateFlow, seamlessly integrating background Media3 playback services.
+- **Analytics Engine**: Developed a robust local-first analytics dashboard capturing activity streaks and real-time listening habits.
+
+### 🔐 **DayVault** — Enterprise-Grade Secure Offline Diary
+
+_A secure personal journaling application with cryptographic guarantees._
+**Tech Stack:** Flutter • Dart • ObjectBox • Cryptography (PBKDF2)
+
+- **Zero-Knowledge Security**: Engineered XOR encryption for journal content paired with PBKDF2-derived key management (100,000 iterations).
+- **Hardened Authentication**: Integrated hardware-backed keystore/keychain access, biometric fallbacks, and strict rate-limiting protocol against brute forcing.
+- **Resilient Data Integrity**: Implemented 3-second delayed auto-saves, draft recovery buffers, and fully encrypted exports.
+
+---
+
+## 🌍 Open Source Contributions
+
+### **[OpenClaw](https://github.com/openclaw/openclaw)** - _Open-Source AI Agent Framework_
+
+Actively contributed to the **OpenClaw** ecosystem, an advanced agentic framework bridging the gap between LLM inference and local execution environments.
+
+- **Core Architecture**: Developed within the core plugin API boundaries, Gateway node wire protocols, and execution runner contexts.
+- **Enterprise Standards**: Operated under strict CI/CD guidelines, high-coverage Vitest guardrails, and secure OSS supply chain rules (GHSA).
+
+### 📝 **[GitScripe](https://github.com/ajay99511/GitScripe)** — AI-Powered Commit History Tracker
+
+_Progressive web application integrating AI intelligence into version control workflows._
+
+- **Intelligent Tracking**: Vector-based context retrieval evaluating repository state and code dynamics to summarize development workflows.
+- **Tech Stack**: TypeScript • React • Node.js • Prisma • SQLite (Vector)
+
+---
+
+## 🛠️ Holistic Tech Stack
+
+### **AI Tools & Deep Learning** 🧠
+
+```text
+Theory: Transformer Math, Mamba/SSM Hybrids, FlashAttention-4, MoE Routing, KV Caching
+Agents: LangChain, MCP (Model Context Protocol), Magentic Supervisors
+Infra: Qdrant (Vector DB), Redis, Ollama, FastAPI, Python
+```
+
+### **Mobile & Desktop Engineering** 📱
+
+```text
+Android: Kotlin, Jetpack Compose, AndroidX Media3, Room, Dagger Hilt
+Cross-Platform: Flutter, Dart 3.0+, Drift ORM, ObjectBox, Tauri
+Focus: Offline-First Performance • Cryptographic Storage • Clean Architecture
+```
+
+### **Web & Backend Infrastructure** 🌐
+
+```text
+Stack: TypeScript, React, Prisma, C#, ASP.NET, SQLite, Node.js
+Focus: API Design • Real-Time Systems (SSE/WebSockets) • Progressive Web Apps
+```
+
+---
+
+## 📈 Engineering GitHub Stats
 
 <div align="center">
 
-| 🎬 Video | 🎧 Audio | 📊 Analytics | 🖼️ Gallery |
-|:---:|:---:|:---:|:---:|
-| **Gesture Controls** | **Smart Queue** | **Real-time Stats** | **Instant Gallery** |
-| PiP Mode | Infinite Playback | Streak Tracking | Staggered Grid |
-| Multi-Track Support | Persistent Queue | Activity Insights | Scoped Storage |
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay99511&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/ajay99511)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay99511&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/ajay99511)
 
 </div>
-
-**Tech Stack:** Jetpack Compose • Media3 (ExoPlayer) • Room DB • Dagger Hilt • Kotlin 2.2.10
-
-**Highlights:**
-- ✨ Modern MVVM architecture with clean separation of concerns
-- 📱 Advanced gesture controls (brightness, volume, seeking)
-- 💾 100% offline with local media persistence
-- 🎨 3 premium themes with dark mode support
-- 📈 Rich analytics dashboard with activity streaks
-
-**Why it stands out:** Production-ready Android application showcasing modern Android development best practices with Jetpack Compose and Media3 architecture.
-
----
-
-### ⏱️ **Chronos Planner** — Desktop Time Management App
-**[Repository](https://github.com/ajay99511/chronos_planner)** | **Languages:** Dart (86.9%) + C++ (6.6%)
-
-<div align="center">
-
-| 📅 Scheduling | 🎯 Intelligence | 📋 Templates | 📊 Dashboard |
-|:---:|:---:|:---:|:---:|
-| **7-Day Rolling** | **Energy Matching** | **Recurring Plans** | **Peak Hours** |
-| Time Blocking | Productivity Insights | Auto-Apply | Focus Time |
-| Undo/Redo Support | Peak Hour Detection | Smart Suggestions | Category Split |
-
-</div>
-
-**Tech Stack:** Flutter 3.x • Dart 3.0+ • Drift ORM • Provider • Material Design 3
-
-**Highlights:**
-- 🚀 Desktop-first productivity platform (Windows, Linux, macOS)
-- 🧠 Energy-aware task scheduling with AI recommendations
-- 🎨 Glassmorphic UI with neon accents
-- 📊 Advanced analytics with 24-hour productivity heatmap
-- 🔄 Undo/Redo system for mistake-friendly UX
-- 📚 **22 comprehensive documentation files** (top 1% standard)
-
-**Why it stands out:** Demonstrates full-featured desktop development, complex state management, and exceptional documentation practices used in elite GitHub repositories.
-
----
-
-### 📔 **DayVault** — Personal Diary Application
-**[Repository](https://github.com/ajay99511/DayVault)** | **Languages:** Dart (54.9%) + C++ (6.5%)
-
-**Description:** Flutter-based personal diary application with offline-first architecture and rich media support.
-
-**Tech Stack:** Flutter • Dart • Local Storage
-
----
-
-### 🤖 **ENGRAM** — AI Personal Assistant Platform
-**[Repository](https://github.com/ajay99511/ENGRAM)** | **Languages:** Python (69.9%) + TypeScript (24.5%)
-
-**Description:** Your own personal AI assistant supporting any OS and platform. Built with cutting-edge AI/ML technologies.
-
-**Tech Stack:** Python • TypeScript • Tauri (Desktop) • React
-
-**Key Features:**
-- 🤖 Multi-platform AI assistant
-- 🎯 Intelligent automation capabilities
-- 🔌 Plugin architecture with extensibility
-- 📊 i18n support for global reach
-
----
-
-### 📝 **GitScripe** — Git Integration Tool
-**[Repository](https://github.com/ajay99511/GitScripe)** | **Language:** TypeScript (99.7%)
-
-**Description:** Progressive Web Application for GitHub integration with scripting capabilities.
-
-**Tech Stack:** TypeScript • React • PWA
-
----
-
-### 🛍️ **ReStore** — E-Commerce Platform
-**[Repository](https://github.com/ajay99511/ReStore)** | **Languages:** C# (54%) + TypeScript (44.4%)
-
-**Description:** Full-stack e-commerce solution with modern frontend and backend technologies.
-
-**Tech Stack:** C# (ASP.NET) • TypeScript • React • Vite
-
----
-
-## 📊 Tech Stack Breakdown
-
-### **Mobile Development** 📱
-```
-Kotlin 🎵 FastBeat
-├─ Jetpack Compose (UI Framework)
-├─ Media3 / ExoPlayer (Playback)
-├─ Room (Database)
-└─ Dagger Hilt (DI)
-
-Flutter 📔📋 DayVault + Chronos Planner
-├─ Dart 3.0+
-├─ Drift ORM
-├─ Provider (State Management)
-└─ Material Design 3
-```
-
-### **Desktop Development** 🖥️
-```
-Tauri + React + TypeScript
-├─ Cross-platform (Windows, Linux, macOS)
-├─ Modern UI Components
-└─ High Performance
-
-Flutter Desktop
-├─ Windows, macOS, Linux support
-├─ Responsive layouts
-└─ Native performance
-```
-
-### **Backend & AI** 🔧
-```
-Python (69.9%)
-├─ ML/AI capabilities
-└─ Intelligent automation
-
-C# / ASP.NET
-├─ Robust server logic
-└─ Database management
-```
-
-### **Frontend & Web** 🌐
-```
-TypeScript (99.7%)
-├─ Type-safe development
-├─ React ecosystem
-└─ Modern tooling (Vite)
-
-HTML / CSS
-├─ Responsive design
-└─ PWA support
-```
-
----
-
-## 🚀 Key Achievements
-
-| Achievement | Details |
-|-------------|---------|
-| 🏗️ **Architecture** | MVVM, Clean Architecture, Repository Pattern across projects |
-| 📚 **Documentation** | Top 1% standard with 22+ comprehensive guides (Chronos Planner) |
-| 🎨 **UI/UX** | Modern design systems (Material Design 3, Glassmorphism, Dark Mode) |
-| 📈 **Scalability** | Offline-first design, efficient databases, optimized performance |
-| 🔐 **Best Practices** | Dependency injection, type safety, comprehensive error handling |
-| 🧪 **Testing** | Unit tests, integration tests, thorough coverage |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay99511&layout=compact&theme=dark)](https://github.com/ajay99511)
-
-</div>
-
-**Language Proficiency:**
-- **Kotlin** — Android development (FastBeat)
-- **Dart/Flutter** — Cross-platform mobile & desktop (DayVault, Chronos)
-- **TypeScript** — Modern web development (GitScripe, ReStore)
-- **Python** — AI/ML backend (ENGRAM)
-- **C#** — Enterprise backend (ReStore)
-- **React** — Frontend frameworks (GitScripe, ReStore, ENGRAM)
-
----
-
-## 🎓 Development Philosophy
-
-### **1. User-First Design**
-Every application prioritizes exceptional UX with modern UI patterns, intuitive gestures, and accessibility.
-
-### **2. Production-Ready Architecture**
-- Clear separation of concerns (MVVM, Clean Architecture)
-- Type-safe development across all tech stacks
-- Comprehensive error handling and logging
-- Performance optimization and offline support
-
-### **3. Documentation Excellence**
-Chronos Planner sets the standard with 22+ comprehensive documentation files following top 1% GitHub practices.
-
-### **4. Continuous Innovation**
-Always exploring new technologies and best practices:
-- Latest Android Jetpack components
-- Modern Flutter state management
-- AI/ML integration (ENGRAM)
-- Desktop-first PWA development
-
----
-
-## 🛠️ Currently Working On
-
-- ✨ **Equalizer** for FastBeat (Q2 2026)
-- 📝 **Lyrics Support** with sync (Q3 2026)
-- 📺 **Chromecast** integration (Q4 2026)
-- ☁️ **Cloud Sync** for Chronos Planner
-- 🔔 **Smart Notifications** system
-- 🤖 **Advanced AI Features** for ENGRAM
-
----
-
-## 💡 What Makes My Work Stand Out
-
-✅ **End-to-End Expertise** — From native mobile to desktop to web  
-✅ **Production Quality** — Every project follows industry best practices  
-✅ **User Experience** — Modern UI/UX with thoughtful interactions  
-✅ **Code Quality** — Clean, maintainable, well-documented code  
-✅ **Performance First** — Optimized for speed, battery, and offline use  
-✅ **Innovation** — Cutting-edge tech (Media3, Drift, Tauri, AI/ML)  
 
 ---
 
 ## 📞 Let's Connect
 
+I am continuously exploring the intersection of **Deep Learning mathematics, Autonomous Agent behaviors, and Elite Software Systems**, bringing an unyielding commitment to contributing to AI.
+
 <div align="center">
 
-| 💼 | 🐙 | 📧 | 🔗 |
-|:---:|:---:|:---:|:---:|
-| [LinkedIn](#) | [@ajay99511](https://github.com/ajay99511) | [Email](#) | [Portfolio](#) |
+|  💼 **Professional**  |             🐙 **Open Source**             |               📧 **Direct**               |
+| :-------------------: | :----------------------------------------: | :---------------------------------------: |
+| [LinkedIn Preview](#) | [@ajay99511](https://github.com/ajay99511) | [Email Me](mailto:your-email@example.com) |
 
-**Open to:**
-- 🤝 Collaboration on innovative projects
-- 💬 Technical discussions & mentoring
-- 🎯 Full-time opportunities
-- 🚀 Freelance/Contract work
+**Currently open to:** Technical discussions • Deep Learning/AI Projects • High-Impact Software Engineering Roles
 
 </div>
 
----
-
-## 📄 License
-
-All projects are open source under the MIT License.
-
----
-
 <div align="center">
-
-**Made with ❤️ | Constantly learning and growing 🚀**
-
-![Views](https://komarev.com/ghpvc/?username=ajay99511&color=blue)
-
+  <br>
+  <sub><b>Driven by mathematical curiosity and extreme engineering precision.</b></sub>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ajay99511&color=4F46E5&style=flat-square" alt="Profile Views" />
 </div>
