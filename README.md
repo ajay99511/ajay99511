@@ -5,7 +5,7 @@
 ### LLM / AI Systems Engineer · MS CS @ UCM
 
 [![GitHub followers](https://img.shields.io/github/followers/ajay99511?style=for-the-badge&logo=github&color=4F46E5)](https://github.com/ajay99511)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/e-aj-47b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajayelika.cc-4F46E5?style=for-the-badge&logo=vercel)](https://www.ajayelika.cc/)
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail)](mailto:ajayelika9010@gmail.com)
 
