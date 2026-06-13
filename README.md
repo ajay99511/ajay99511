@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ajay Elika
 
-### LLM / AI Systems Engineer · MS CS @ UCM
+### Full Stack Enginner / LLM / AI Systems Engineer · CS Graduate
 
 [![GitHub followers](https://img.shields.io/github/followers/ajay99511?style=for-the-badge&logo=github&color=4F46E5)](https://github.com/ajay99511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
