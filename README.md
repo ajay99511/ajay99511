@@ -17,7 +17,7 @@
 
 ## 🧠 Who I Am
 
-I am a **Software Engineer and MS in Computer Science graduate (UCM)** specializing in **LLM systems, autonomous agents, and resilient application architectures**.  
+I am a **Software Engineer and Computer Science graduate ** specializing in **LLM systems, autonomous agents, and resilient application architectures including both front end and backend designs**.  
 My work sits at the intersection of **deep learning internals**, **systems design**, and **real‑world products** (mobile, desktop, and web).
 
 I care less about “calling an API” and more about **how models work under the hood, how they are orchestrated, and how they behave in production**.
